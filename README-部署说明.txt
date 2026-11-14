@@ -1,3 +1,9 @@
+公开访问地址
+https://buliu-maker.github.io/shenzhen-gift-fair-report-2026/
+
+当前状态
+已通过 GitHub Pages 发布。二维码文件位于：
+outputs\深圳礼品展_在线报告二维码.png
 深圳礼品展｜在线 HTML 报告部署说明
 
 一、当前文件
